@@ -19,6 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="temp.cpp" />
     <ClCompile Include="tempB.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
